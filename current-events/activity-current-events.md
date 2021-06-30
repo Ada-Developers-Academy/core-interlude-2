@@ -102,7 +102,7 @@ Partaking in conversations about current events often means engaging with materi
 
 <details>
 
-<summary>Create a first, initial slide that lists the content warnings if there's mention of any of the following. This slide must clearly list the content warnings.</summary>
+<summary>Create a first, initial slide that lists the content warnings if there's mention of any of the following. This slide should be titled "Content Warnings," and then clearly list the relevant content warnings.</summary>
 
 - Rape and Sexual Assault
 - Abuse (physical, mental, emotional, verbal, sexual)
@@ -132,7 +132,7 @@ A content warning slide should not discourage you from bringing any current even
 
 * type: project
 * id: 5ee08cab
-* title: Unit 3 Lightning Talk
+* title: Current Events
 * points: 1
 
 ##### !question
