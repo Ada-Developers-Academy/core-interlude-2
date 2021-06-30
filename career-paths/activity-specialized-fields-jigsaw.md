@@ -1,4 +1,4 @@
-# Activity: Specialized Fields
+# Activity: Specialized Fields Jigsaw
 
 ## Goal
 

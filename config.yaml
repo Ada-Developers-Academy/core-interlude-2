@@ -2,7 +2,7 @@
 Standards:
   -
     Title: Career Paths
-    Description: "Activity: Specialized Fields"
+    Description: "Activity: Specialized Fields Jigsaw"
     UID: 1432a704
     SuccessCriteria:
       - success criteria
@@ -10,8 +10,8 @@ Standards:
       -
         Type: Instructor
         UID: 84bfd595
-        Path: /career-paths/activity-specialized-fields.instructor.md
+        Path: /career-paths/activity-specialized-fields-jigsaw.instructor.md
       -
         Type: Lesson
         UID: d4000c00
-        Path: /career-paths/activity-specialized-fields.md
+        Path: /career-paths/activity-specialized-fields-jigsaw.md

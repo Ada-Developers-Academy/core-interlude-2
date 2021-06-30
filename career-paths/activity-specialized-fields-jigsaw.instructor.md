@@ -1,4 +1,4 @@
-# Instructor: Activity: Specialized Fields
+# Instructor: Activity: Specialized Fields Jigsaw
 
 The goal of this is to grow awareness of how expansive the tech field is. Students should see a huge breadth of computing topics, and imagine if their interests fit into any of them.
 
