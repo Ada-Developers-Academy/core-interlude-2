@@ -4,7 +4,7 @@ The goal of this activity is to bring in students who have never been welcome to
 
 There are a lot of barriers to being able to talk about these thoughts openly.
 
-- BIPOC are punished for bringing up topics that "cause problems" to white people
+- BIPOC are punished for bringing up topics that "cause problems" for white people
 - Women are socialized to avoid conflict, or to avoid conversations or opinions that could create conflict
 - Trans people are asked to minimize themselves, and to not ask for rights
 - Many groups face prejudice around how they're able to engage in critical discussion
@@ -16,7 +16,7 @@ The best attitude for this activity is, "Of course you can engage with current e
 
 ## Balance the Possibility of Triggering Discussion With Enthusiasm for Successes
 
-When introducing this topic, it **important** to not focus on the fact that current events may be triggering. Everyone knows it, and it only triggers marginalized folks more to spend time waxing on about harm.
+When introducing this topic, it is **important** to not focus on the fact that current events may be triggering. Everyone knows it, and it only triggers marginalized folks more to spend time waxing on about harm.
 
 <br/>
 
@@ -33,7 +33,7 @@ Encourage engagement with the topics:
 - If there's happiness, encourage happy news!
 - If there's energy around critical news, encourage the discussion!
 
-It's intentional that the format of this is small conversations/not to a large group. These can be really personal.
+It's intentional that the format of this is small conversations, not a large group. These can be really personal.
 
 ## Meta
 
