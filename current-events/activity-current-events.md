@@ -104,7 +104,7 @@ Partaking in conversations about current events often means engaging with materi
 
 <details>
 
-<summary>Create a first, initial slide that lists the content warnings if there's mention of any of the following. This slide should be titled "Content Warnings," and then clearly list the relevant content warnings.</summary>
+<summary>Create an initial slide that lists the content warnings if there's mention of any of the following. This slide should be titled "Content Warnings," and then clearly list the relevant content warnings.</summary>
 
 - Rape or sexual assault
 - Abuse (physical, mental, emotional, verbal, sexual)
