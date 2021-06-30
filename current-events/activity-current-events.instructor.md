@@ -34,3 +34,7 @@ Encourage engagement with the topics:
 - If there's energy around critical news, encourage the discussion!
 
 It's intentional that the format of this is small conversations/not to a large group. These can be really personal.
+
+## Meta
+
+The list of triggers comes from [a trigger warning guide](https://trigger-warning-guide.tumblr.com/triggers). I pruned some topics from my own POV.
