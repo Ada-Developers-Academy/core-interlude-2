@@ -87,7 +87,7 @@ The safety of marginalized identities in tech is the priority of this activity.
 
 If you're unsure where to begin your research, try finding recent news about any of these topics:
 
-- Successful advancements/achievements in science and technology
+- Successful advancements or achievements in science and technology
 - Net neutrality
 - New combinations of new media, art, performance, and technology
 - Working conditions in tech
