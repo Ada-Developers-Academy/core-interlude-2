@@ -1,0 +1,17 @@
+---
+Standards:
+  -
+    Title: Communities
+    Description: "Activity: Event and Media Recommendations"
+    UID: a1628466
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: 8402621c
+        Path: /communities/activity-event-and-media-recommendations.instructor.md
+      -
+        Type: Lesson
+        UID: 69e158e3
+        Path: /communities/activity-event-and-media-recommendations.md
