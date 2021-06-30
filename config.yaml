@@ -1,0 +1,17 @@
+---
+Standards:
+  -
+    Title: Career Paths
+    Description: "Activity: Specialized Fields"
+    UID: 1432a704
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: 84bfd595
+        Path: /career-paths/activity-specialized-fields.instructor.md
+      -
+        Type: Lesson
+        UID: d4000c00
+        Path: /career-paths/activity-specialized-fields.md
