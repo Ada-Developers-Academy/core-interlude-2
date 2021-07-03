@@ -10,9 +10,9 @@ We should come out of this activity seeing the breadth and diversity of differen
 
 In this activity, we will be learning and then teaching each other. We will have two rounds: the research round and the teaching round.
 
-In the research round, you will meet with your first assigned group to learn about an assigned topic.
+In the research round, you will meet with your first assigned group to learn about a specified topic.
 
-In the teaching round, your research round group will disseminate and you will go into your second assigned group. It is your responsibility to teach this group about that topic.
+In the teaching round, your research round group will disband and you will get into your second assigned group. It is your responsibility to teach this group about that topic.
 
 Small groups should be prepared. In the teaching round, small groups should consist of one person from each research group.
 
@@ -39,9 +39,9 @@ Spend 30 minutes with your research group in the research round. Then, spend the
 
 ### Research Round
 
-Each research group will be assigned an API to research.
+Each research group will be assigned a specialized field to research.
 
-You will be learning and teaching each other about other APIs, what they do, what they can't do, and how to read the documentation.
+You will be learning and teaching each other about other fields, what they focus on, how they are applied, and how to get started with them.
 
 ### Specialized Fields
 
@@ -65,7 +65,7 @@ Each prompt lists at least two specialized fields. These fields _may_ be related
 For each field, answer these questions:
 
 1. What is this field? What kind of problems does it try to solve?
-1. What are some example projects, products, studies, or piece of work that is related to this field?
+1. What are some example projects, products, studies, or pieces of work that are related to this field?
     - How are they related to the field?
 1. Who is/was a prominent technologist(s) in this field?
 1. How could a junior developer work their way towards this specialized field?
