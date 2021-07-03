@@ -1,6 +1,21 @@
 ---
 Standards:
   -
+    Title: Python Mob Programming
+    Description: "Activity: Python Mob Programming"
+    UID: 80fa67885c3e94ef1bd67fbf6b9f7b3a
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: d06d453ef18964ae67d0bc22e16876bf
+        Path: /python-mob-programming/activity-python-mob-programming.instructor.md
+      -
+        Type: Lesson
+        UID: 81865d51eb17b709fe709ed5fa254ae8
+        Path: /python-mob-programming/activity-python-mob-programming.md
+  -
     Title: Career Paths
     Description: "Activity: Specialized Fields Jigsaw"
     UID: 1432a704
