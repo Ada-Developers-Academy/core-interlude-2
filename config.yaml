@@ -45,3 +45,18 @@ Standards:
         Type: Lesson
         UID: 69e158e3
         Path: /communities/activity-event-and-media-recommendations.md
+  -
+    Title: Current Events
+    Description: "Activity: Current Events"
+    UID: 0e6daa6e
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: a91cb97e
+        Path: /current-events/activity-current-events.instructor.md
+      -
+        Type: Lesson
+        UID: 5e3099cb
+        Path: /current-events/activity-current-events.md
