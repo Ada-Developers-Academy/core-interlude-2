@@ -4,7 +4,7 @@
 
 We can grow and nurture our connection to tech!
 
-One way to nurture a connection to something is to find others in similar positions and/or with similar interests.
+One way to nurture a connection to something is to find others in similar positions or with similar interests.
 
 We can get a better glimpse into the cool work being done in tech by finding:
 
@@ -94,8 +94,8 @@ If you're unsure where to begin research, we can search the Internet for the phr
 
 - Your name and pronouns
 - A link to the event
-- A graphic/photograph/picture/logo
-- Answer this question: How could this event contribute to your career interests?
+- A graphic, photograph, picture, or logo
+- Answer this question: How could this event contribute to my career interests?
 
 ## Social Media Recommendation Criteria
 
@@ -109,7 +109,7 @@ Find two of the following:
 1. Other social media accounts (Instagram, LinkedIn, TikTok, etc.)
 1. Podcasts
 1. Newsletters
-1. Documentaries/Movies/TV Shows
+1. Documentaries, movies, or TV shows
 1. YouTube channels
 
 ### Examples
@@ -159,8 +159,8 @@ If you're unsure where to begin research, we can search the Internet for the phr
 
 - Your name and pronouns
 - A link to the piece of media
-- A graphic/photograph/picture/logo
-- Answer this question: Why did you recommend this?
+- A graphic, photograph, picture, or logo
+- Answer this question: Why did I recommend this?
 
 ## Reflect
 
@@ -177,7 +177,7 @@ From the list of recommended media, pick one that comes from an experience or vo
 ##### !options
 
 * Pick a piece of recommended media that comes from an experience or voice that is usually unheard in your life.
-* Consider how to include this voice/these voices in your life.
+* Consider how to include these voices in your life.
 
 ##### !end-options
 ### !end-challenge

@@ -2,7 +2,7 @@
 
 Presentations are exciting because it gives students an opportunity to verbalize what gets them excited.
 
-Getting the slides to auto-advance every 30 seconds is important. This helps moderate the student pace; no student should "hijack" the presentation, or take up too much space. Auto-advance helps prevent facilitation.
+Getting the slides to auto-advance every 30 seconds is important. This helps moderate the student pace; no student should "hijack" the presentation, or take up too much space. Auto-advance helps facilitation.
 
 Thirty seconds is recommended because the recommendations can be short. Feel free to adjust, but be mindful that the students are asked to create three slides. 💀
 
