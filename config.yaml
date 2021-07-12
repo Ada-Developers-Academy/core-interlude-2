@@ -16,6 +16,21 @@ Standards:
         UID: 81865d51eb17b709fe709ed5fa254ae8
         Path: /python-mob-programming/activity-python-mob-programming.md
   -
+    Title: Interview Questions
+    Description: "Activity: Interview Question"
+    UID: 091e224a
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: fa72c177
+        Path: /interview-questions/activity-interview-questions.instructor.md
+      -
+        Type: Lesson
+        UID: 709b6f67
+        Path: /interview-questions/activity-interview-questions.md
+  -
     Title: Career Paths
     Description: "Activity: Specialized Fields Jigsaw"
     UID: 1432a704
