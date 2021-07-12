@@ -4,9 +4,9 @@
 
 Our goal is to create a review document for _all of the material in **the entire curriculum**_!
 
-We'll create such an impressive document collaboratively. Each member will have a shared responsibility of contributing material. The more clear everyone's contributions are, the more clear everyone's final review material will be!
+To create a document of such impressive scope, we'll work collaboratively! Each collaborator will have the shared responsibility of contributing material. The more clear everyone's contributions are, the more clear everyone's final review material will be!
 
-Our goal is to create a review document that "_has enough depth that will help you at the end of the Ada program_." Therefore, our review materials should focus on:
+Our goal is to create a review document that "_has enough depth to be helpful at the end of the Ada program_." Therefore, our review materials should focus on:
 
 - Vocabulary and definitions
 - Clear examples (code examples or examples of application)
@@ -20,7 +20,7 @@ Have you ever started a long book, video game, or TV show, dropped it, and then 
 
 <br/>
 
-Did you remember everything you needed to remember in order to get back into it? You might have wanted a review about the story, what was going on, who the characters are, and what was important. Our goal is to create a "cheat sheet" to help give these kinds of details to you, but about programming.
+Did you remember everything you needed to remember in order to get back into it? You might have wanted a recap of the story, what was going on, who the characters are, and what was important. Our goal is to create a "cheat sheet" to help give these kinds of details to you, but about programming.
 
 ### !end-callout
 
@@ -64,7 +64,7 @@ It's up to **you** to determine and prioritize **the most important information 
 
 Pair with another person in your group.
 
-First, introduce your notes to each other.
+First, give an overview of your notes to each other.
 
 Then, collaboratively create a **maximum of four slides** for each set of topics. (Every person was assigned one set of topics. Therefore, a pair should have a maximum of eight slides created, and a group of four members should have a maximum of 16 slides.)
 
