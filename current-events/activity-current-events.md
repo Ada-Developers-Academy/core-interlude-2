@@ -4,7 +4,7 @@
 
 Our goal is to create intentional space to discuss current events in technology.
 
-We want to become part of the ever-evolving conversation among technologists.
+We are becoming part of the ever-evolving conversation among technologists.
 
 Through discussion, we should aim to gain awareness of different topics and share what current events are interesting to us.
 
@@ -70,6 +70,10 @@ Open discussion about current events can affect us in many ways. Everyone should
 ## Separation From Current Events
 
 The current news we bring and discuss is not necessarily a reflection of who we are.
+
+<br/>
+
+For example, Sally can bring an article about [the legal battle between Epic Games' Fortnite, Apple, and Google](https://www.polygon.com/2020/8/17/21372119/fortnite-apple-google-sued-epic-games-lawsuit). Bringing this article doesn't mean that Sally has a personal opinion or judgment about Epic Games, Apple, or Google, or anyone who works there or uses their products.
 
 ### !end-callout
 
