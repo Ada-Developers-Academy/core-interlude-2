@@ -2,7 +2,7 @@
 
 ## Goal
 
-Our goal is to compile a series of interview question resources and interview questions. By the end of this activity, everyone should have access to some recommended interview questions.
+Our goal is to compile a series of interview question resources and interview questions.
 
 ## Preparation
 
@@ -38,17 +38,17 @@ If it includes practice interview questions, then it's valid!
 
 ### Crowdsource Questions
 
-Afterwards, individually find and share practice questions. Everyone must contribute at least _two_ questions to the shared document of practice questions.
+Individually find and share practice questions. Everyone must contribute at least _two_ questions to the shared document of practice questions.
 
 - One must be a coding question
 - The second may be a behavioral question
-- There can be overlap or repetition compared to other entries in the document.
+- There can be overlap or repetition with other entries in the document.
 
 For each coding question, include a link to its original source if possible. For example:
 
 | Name         | Question #1                                                                 | Question #2                                                                                                         |
 | ------------ | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Eamonn Finch | [Roman Numeral to Integer](https://leetcode.com/problems/roman-to-integer/) | Describe a time when you were working with someone and there was a conflict. What happened, and how did it resolve? |
+| Eamonn Finch | [Roman Numeral to Integer](https://leetcode.com/problems/roman-to-integer/) | Describe a time when you were working with someone and there was a conflict. What happened, and what was the resolution? |
 
 #### Tips
 
