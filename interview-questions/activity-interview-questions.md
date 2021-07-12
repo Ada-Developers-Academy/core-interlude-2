@@ -66,9 +66,13 @@ Begin with looking for questions that are:
 ## Your Mileage May Vary
 
 Online interview prep material can target entry-level developers or senior-level developers. There are interview questions that target general programming, software development, or computer science, and some that target specific subjects, such as networking or databases.
+
 <br/>
+
 Finding interview questions is an imperfect process. Sometimes a question we find targets the wrong skill level or subject material, and we don't realize this until we're doing our interview practice. Sometimes, a question we find is in a different programming language!
+
 <br/>
+
 Even after coming across a few strange interview questions, keep persisting! Getting presented with unlikely problems and learning how to assess an appropriate interview question for you is part of the process. Don't aim for perfection, aim for practice!
 
 ### !end-callout
