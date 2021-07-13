@@ -1,6 +1,81 @@
 ---
 Standards:
   -
+    Title: Python Mob Programming
+    Description: "Activity: Python Mob Programming"
+    UID: 80fa67885c3e94ef1bd67fbf6b9f7b3a
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: d06d453ef18964ae67d0bc22e16876bf
+        Path: /python-mob-programming/activity-python-mob-programming.instructor.md
+      -
+        Type: Lesson
+        UID: 81865d51eb17b709fe709ed5fa254ae8
+        Path: /python-mob-programming/activity-python-mob-programming.md
+  -
+    Title: Interview Questions
+    Description: "Activity: Interview Question"
+    UID: 091e224a
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: fa72c177
+        Path: /interview-questions/activity-interview-questions.instructor.md
+      -
+        Type: Lesson
+        UID: 709b6f67
+        Path: /interview-questions/activity-interview-questions.md
+  -
+    Title: Career Paths
+    Description: "Activity: Specialized Fields Jigsaw"
+    UID: 1432a704
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: 84bfd595
+        Path: /career-paths/activity-specialized-fields-jigsaw.instructor.md
+      -
+        Type: Lesson
+        UID: d4000c00
+        Path: /career-paths/activity-specialized-fields-jigsaw.md
+  -
+    Title: Communities
+    Description: "Activity: Event and Media Recommendations"
+    UID: a1628466
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: 8402621c
+        Path: /communities/activity-event-and-media-recommendations.instructor.md
+      -
+        Type: Lesson
+        UID: 69e158e3
+        Path: /communities/activity-event-and-media-recommendations.md
+  -
+    Title: Current Events
+    Description: "Activity: Current Events"
+    UID: 0e6daa6e
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: a91cb97e
+        Path: /current-events/activity-current-events.instructor.md
+      -
+        Type: Lesson
+        UID: 5e3099cb
+        Path: /current-events/activity-current-events.md
+  -
     Title: Curriculum Wrap-Up
     Description: "Activity: Think, Pair, Share, Review"
     UID: a8b80293
