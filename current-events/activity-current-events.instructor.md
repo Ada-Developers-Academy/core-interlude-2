@@ -60,7 +60,7 @@ The list of triggers comes from [a trigger warning guide](https://trigger-warnin
 
 ### !callout-info
 
-## Facilitation Notes to Consider: Ada's Company Partners and "Don't Yuck My Yum"
+## Facilitation Notes to Consider: Ada's Company Partners
 
 The trickiest balance of this entire thing is to center the activity around discussion of current events outside our control. Students are doing the right thing by acknowledging the current events exist.
 
@@ -73,6 +73,5 @@ I anticipate that many current events are about Ada company partners, and are cr
 If appropriate, it may be helpful to bring up:
 
 - Working at a tech giant happens! You survive and thrive!! And it's your individual journey to figure out how you fit into that, but being employed is always a good thing when surviving under capitalism.
-- "Don't yuck my yum"-- bring up good news, but don't knock me for liking something
 
 ### !end-callout
