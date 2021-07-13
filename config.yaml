@@ -75,3 +75,18 @@ Standards:
         Type: Lesson
         UID: 5e3099cb
         Path: /current-events/activity-current-events.md
+  -
+    Title: Curriculum Wrap-Up
+    Description: "Activity: Think, Pair, Share, Review"
+    UID: a8b80293
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: 46add73c
+        Path: /curriculum-wrap-up/activity-think-pair-share-review.instructor.md
+      -
+        Type: Lesson
+        UID: 586453bd
+        Path: /curriculum-wrap-up/activity-think-pair-share-review.md
