@@ -97,11 +97,11 @@ Follow directions from the facilitator to share and present the material.
 1. What is Software Development?; Intro to Dev Environment; Approaching a Problem
 1. Intro to Debugging; Intermediate Python Debugging
 1. Intro to Functions; Functions, Continued
-1. Representing Data; Iterating Over Data; Nested Data and Nested Loops
+1. Representing Data; Iterating Over Data; Nested Data and Nested Loops; While Loops
 
 ### Group 2
 
-1. Intro to Tests; While Loops; Exception Handling
+1. Intro to Tests; Exception Handling
 1. Big O; Lists and Memory
 1. Intro to Git; Branches in Git
 1. Intro to OOP; Intro to OOP, Cont'd; Python OOP
@@ -125,11 +125,11 @@ Follow directions from the facilitator to share and present the material.
 1. Web Browsers; Structuring Content
 1. Styles and Presentation; More Neat CSS Things; Layout
 1. Learning Another Language
-1. Functions
+1. Functions; Tests (Unit 3)
 
 ### Group 6
 
-1. Tests (Unit 3); Algorithmic Strategies
+1. Algorithmic Strategies
 1. Adding Behavior; Event Handling; Calling APIs
 1. React Components; Props
 1. State and Event Handling; Lifting State Up; useEffect and Calling APIs
