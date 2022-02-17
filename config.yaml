@@ -1,6 +1,40 @@
 ---
 Standards:
   -
+    Title: Industry Prep Fridays
+    Description: "Activities and Lessons for Industry Prep Fridays"
+    UID: 2f1f90e3-3a7e-4647-bc39-47863a981d0e
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: 38431de4-5a77-4820-8c9c-c30877c3d892
+        Path: /industry-prep-fridays/industry-prep-fridays.instructor.md
+      -
+        Type: Lesson
+        UID: defb503c-4b0e-4cbc-b524-8b912c4ebe35
+        Path: /industry-prep-fridays/intro-industry-prep-fridays.md
+      -
+        Type: Lesson
+        UID: b9f55320-922f-4ded-8240-0c7953fe2de8
+        Path: /industry-prep-fridays/asking-questions.md
+      -
+        Type: Lesson
+        UID: 47b86d79-b723-4cad-97a8-49906e78ce31
+        Path: /industry-prep-fridays/reading-documentation.md
+  -
+    Title: Algorithm Practice Sessions
+    Description: "Algorithm Practice Sessions"
+    UID: a0b2c923-352c-488e-927b-6534bae1ce03
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: e4623cca-e53f-4812-b2e5-af735be00cbb
+        Path: /algorithms/algorithm-practice-sessions.md
+  -
     Title: Python Mob Programming
     Description: "Activity: Python Mob Programming"
     UID: 80fa67885c3e94ef1bd67fbf6b9f7b3a
