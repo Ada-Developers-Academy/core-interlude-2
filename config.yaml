@@ -12,9 +12,29 @@ Standards:
         UID: 38431de4-5a77-4820-8c9c-c30877c3d892
         Path: /industry-prep-fridays/industry-prep-fridays.instructor.md
       -
+        Type: Instructor
+        UID: 1763bf75
+        Path: /industry-prep-fridays/activity-git-collaboration.instructor.md
+      -
+        Type: Instructor
+        UID: d1ede537-7930-4f83-9b13-2263081b3b2d
+        Path: /industry-prep-fridays/activity-code-coverage.instructor.md 
+      -
         Type: Lesson
         UID: defb503c-4b0e-4cbc-b524-8b912c4ebe35
         Path: /industry-prep-fridays/intro-industry-prep-fridays.md
+      -
+        Type: Lesson
+        UID: 500d9781
+        Path: /industry-prep-fridays/activity-git-collaboration.md
+      -
+        Type: Resource
+        UID: tSg96d
+        Path: /industry-prep-fridays/activity-git-history.md 
+      -
+        Type: Lesson
+        UID: 29c5d18e-7412-4bb3-aa03-dd24137cfe16
+        Path: /industry-prep-fridays/activity-code-coverage.md  
       -
         Type: Lesson
         UID: b9f55320-922f-4ded-8240-0c7953fe2de8
