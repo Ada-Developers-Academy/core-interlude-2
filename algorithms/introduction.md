@@ -1,4 +1,4 @@
-# What to Expect During Algorithm Sessions
+# What to Expect in Algorithm Sessions
 
 ### We will be practicing the following goals:
 
