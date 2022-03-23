@@ -39,7 +39,7 @@ Standards:
       - success criteria
     ContentFiles:
       -
-        Type: Resource
+        Type: Lesson
         UID: e9dee1ea-755a-4e4b-8ad6-038e40e0c0e7
         Path: /algorithms/introduction.md
       -
