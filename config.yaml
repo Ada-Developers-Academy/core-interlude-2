@@ -40,16 +40,8 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        UID: e9dee1ea-755a-4e4b-8ad6-038e40e0c0e7
-        Path: /algorithms/introduction.md
-      -
-        Type: Resource
         UID: e4623cca-e53f-4812-b2e5-af735be00cbb
-        Path: /algorithms/algorithm-practice-sessions-1.md
-      -
-        Type: Resource
-        UID: 0acaf90c-12d4-48e8-8102-264d0bae18be
-        Path: /algorithms/algorithm-practice-sessions-2.md
+        Path: /algorithms/algorithm-practice-sessions.md
   -
     Title: Python Mob Programming
     Description: "Activity: Python Mob Programming"
