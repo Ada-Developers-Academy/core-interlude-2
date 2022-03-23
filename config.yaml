@@ -43,11 +43,11 @@ Standards:
         UID: e9dee1ea-755a-4e4b-8ad6-038e40e0c0e7
         Path: /algorithms/introduction.md
       -
-        Type: Resource
+        Type: Lesson
         UID: e4623cca-e53f-4812-b2e5-af735be00cbb
         Path: /algorithms/algorithm-practice-sessions-1.md
       -
-        Type: Resource
+        Type: Lesson
         UID: cac74e68-dde3-46b7-9019-0a84431715b2
         Path: /algorithms/algorithm-practice-sessions-2.md
   -
