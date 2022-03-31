@@ -10,7 +10,11 @@ Standards:
       -
         Type: Instructor
         UID: 38431de4-5a77-4820-8c9c-c30877c3d892
-        Path: /industry-prep-fridays/industry-prep-unit-1.instructor.md
+        Path: /industry-prep-fridays/instructor-unit-1-industry-prep.md
+      -
+        Type: Instructor
+        UID: 3c84a434-1b17-45f5-b908-332bd84c5629
+        Path: /industry-prep-fridays/instructor-unit-2-industry-prep.md
       -
         Type: Lesson
         UID: defb503c-4b0e-4cbc-b524-8b912c4ebe35
@@ -31,6 +35,10 @@ Standards:
         Type: Lesson
         UID: b9f55320-922f-4ded-8240-0c7953fe2de8
         Path: /industry-prep-fridays/asking-questions-reading-documentation.md
+      -
+        Type: Lesson
+        UID: 9487cdd3-e1c9-44dd-bc15-3fe9ffbedcbe
+        Path: /industry-prep-fridays/git-branching-merge-carnival.md
   -
     Title: Algorithm Practice Sessions
     Description: "Algorithm Practice Sessions"
