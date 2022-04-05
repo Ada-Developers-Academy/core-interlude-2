@@ -108,7 +108,7 @@ Students should find the following efficiency issues:
 ### !challenge
 
 * type: paragraph
-* id: 9fc8f407-17e7-48d4-8077-ba468e183c03
+* id: b80911df-1d46-45b3-b590-4680abb85882
 * title: What testing issues did you find?
 * points: 1
 * topics: python, code-reviews, testing
