@@ -144,3 +144,18 @@ Standards:
         Type: Lesson
         UID: 586453bd
         Path: /curriculum-wrap-up/activity-think-pair-share-review.md
+  -
+    Title: Code Reviews
+    Description: "Code Reviews and using Github pull requests for code reviews"
+    UID: bfa23bea-229f-4eb3-a57d-6939307add46
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: fe7d95d5-4010-412b-b708-7334f34507cb
+        Path: /code-reviews/intro-code-reviews.md
+      -
+        Type: Lesson
+        UID: 5fe09515-3509-41d9-9a07-a222ebeda025
+        Path: /code-reviews/github-pr-review.md
