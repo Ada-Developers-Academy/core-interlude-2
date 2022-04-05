@@ -31,6 +31,14 @@ Standards:
         Type: Lesson
         UID: b9f55320-922f-4ded-8240-0c7953fe2de8
         Path: /industry-prep-fridays/asking-questions-reading-documentation.md
+      -
+        Type: Instructor
+        UID: 90ffa0e6-a6d2-485a-b67f-3380a9f86433
+        Path: /industry-prep-fridays/activity-code-reviews.instructor.md
+      -
+        Type: Lesson
+        UID: b98017a9-eaf9-4890-8538-f37eb30d74c3
+        Path: /industry-prep-fridays/activity-code-reviews.md
   -
     Title: Algorithm Practice Sessions
     Description: "Algorithm Practice Sessions"
