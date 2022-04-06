@@ -1,4 +1,4 @@
-# Collaborating with Git and GitHub - Activity
+# Activity: Collaborating with Git and GitHub
 
 ## Goals
 
