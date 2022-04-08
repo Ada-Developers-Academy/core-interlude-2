@@ -37,12 +37,12 @@ Standards:
         Path: /industry-prep-fridays/asking-questions-reading-documentation.md
       -
         Type: Lesson
-        UID: b98017a9-eaf9-4890-8538-f37eb30d74c3
-        Path: /industry-prep-fridays/activity-code-reviews.md
-      -
-        Type: Lesson
         UID: 9487cdd3-e1c9-44dd-bc15-3fe9ffbedcbe
         Path: /industry-prep-fridays/git-branching-merge-carnival.md
+      -
+        Type: Lesson
+        UID: b98017a9-eaf9-4890-8538-f37eb30d74c3
+        Path: /industry-prep-fridays/activity-code-reviews.md
   -
     Title: Algorithm Practice Sessions
     Description: "Algorithm Practice Sessions"
