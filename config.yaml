@@ -76,6 +76,21 @@ Standards:
         Type: Lesson
         UID: 950ac214-d0d6-4dec-9fe0-97562aaec849
         Path: /algorithms/algorithm-practice-sessions-5.md
+
+      -
+        Type: Lesson
+        UID: c1682ba4-6be0-4eff-a905-2a6c793fc06a
+        Path: /algorithms/algorithm-practice-sessions-6.md
+
+      -
+        Type: Lesson
+        UID: 7307dbdb-22f4-428f-8ca3-0ea5f4d326b7
+        Path: /algorithms/algorithm-practice-sessions-7.md
+
+      -
+        Type: Lesson
+        UID: c2cfe1ac-f669-49cf-bee2-4a422206613a
+        Path: /algorithms/algorithm-practice-sessions-8.md
   -
     Title: Python Mob Programming
     Description: "Activity: Python Mob Programming"
