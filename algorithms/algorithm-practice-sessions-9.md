@@ -1,6 +1,7 @@
 # Arrays 2
 
-Due to technical difficulties, there is no video for this session.
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a5c7afaa-02fe-492e-b346-ae7f0015b8fe&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+#### Due to technical difficulties, the video cuts off abruptly.
 
 ### Resources
 
