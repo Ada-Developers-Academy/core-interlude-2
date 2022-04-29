@@ -4,6 +4,10 @@
 
 [Slide Deck from Digital C16](https://docs.google.com/presentation/d/17OYlN3X-8Qb0sCCXaK6tocSxlqfu5Ja5B71LC4_h6ew/edit#slide=id.gf70082f279_0_307)
 
+## Functional Programming
+
+[Slide Deck from Seattle C17](https://docs.google.com/presentation/d/1TB3gsDp_jWLRuUgZVl8b_Wxo3wKUSRYP937aEkiPHlI/edit?usp=sharing)
+
 ## Merge Carnival
 
 Breakout Room number/assignments may need to be adjusted depending on size of class.
