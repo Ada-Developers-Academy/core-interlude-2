@@ -5,4 +5,4 @@
 ### Resources
 
 * [Problems](https://docs.google.com/presentation/d/1i7fS-cT1KmsBE_7hfRJV_XUwHAzuKwl8zfnurte8Mfo/edit?usp=sharing)
-* [Solutions](https://docs.google.com/presentation/d/10rLG5TnBwFohbpMPPvfGZjvl_dOvDuhxJrKElKbbbls/edit?usp=sharing)
+* [Solutions](https://docs.google.com/presentation/d/1bCWmDQpfkOvWvYtNLIndFo7hHOtbLNU4_NZj0pt3PVE/edit?usp=sharing)
