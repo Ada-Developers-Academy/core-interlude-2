@@ -115,6 +115,36 @@ Standards:
         Type: Lesson
         UID: f4d2be8d-ed9b-4278-8163-88dabd64131e
         Path: /algorithms/algorithm-practice-sessions-13.md
+
+      -
+        Type: Lesson
+        UID: c51f40db-64eb-48f0-bc97-3b04a0b85265
+        Path: /algorithms/algorithm-practice-sessions-14.md
+
+      -
+        Type: Lesson
+        UID: 5fde046d-3e1a-47c7-8b59-56d2977ea30f
+        Path: /algorithms/algorithm-practice-sessions-15.md
+
+      -
+        Type: Lesson
+        UID: aa8199f0-5079-44fc-a238-8417fd4d3697
+        Path: /algorithms/algorithm-practice-sessions-16.md
+
+      -
+        Type: Lesson
+        UID: 0b949854-e6fd-4cac-9e38-645dc2f257d3
+        Path: /algorithms/algorithm-practice-sessions-17.md
+
+      -
+        Type: Lesson
+        UID: e5dc0de4-3b6b-4840-90d1-9d794c188d3c
+        Path: /algorithms/algorithm-practice-sessions-18.md
+
+      -
+        Type: Lesson
+        UID: b30f1525-c567-49c2-a1e2-500b48f2998f
+        Path: /algorithms/algorithm-practice-sessions-19.md
   -
     Title: Python Mob Programming
     Description: "Activity: Python Mob Programming"
