@@ -6,7 +6,9 @@ Early in the Ada curriculum we learned the basics of linux commands in the [Intr
 
 As we prepare for internship, we will review the commands we know. We will also review how to use the linux manual (`man`) to learn about linux commands. 
 
-To review linux commands and the linux manual, review this [Linux Basics document](http://alyssahursh.com/docs/linux-basics.html). This resource was created by Alyssa Hursh, an Ada alum and mentor and software engineer at Amazon. As you review the document, use the check list below to record your learnings.
+To review linux commands and the linux manual, review this [Linux Basics document](http://alyssahursh.com/docs/linux-basics.html). This resource was created by Alyssa Hursh, an Ada alum and mentor and software engineer at Amazon. 
+
+As you review [the document](http://alyssahursh.com/docs/linux-basics.html), use the check list below to record your learnings.
 
 We also encourage you to review your class' lightning talk about the Linux Manual. 
 
@@ -21,13 +23,32 @@ We also encourage you to review your class' lightning talk about the Linux Manua
 
 ##### !question
 
-I have reviewed the following commands.
+For each of the following linux commands, review their entry in the linux manual by running `man <command>`. Ask and answer the following questions for yourself.
+* At a high level, what does the command do?
+* How have you used this command?
+* If you haven't used the command, how might you use the command?
+* What are some of the options available for this command?
+
+We encourage you to spend more time with commands you are unfamiliar with. Check off the linux commands you have reviewed.
 
 ##### !end-question
 
 ##### !options
 
-* Use `man <command>` to field the manual for specific commands.
+* `cd`
+* `cp`
+* `mv`
+* `rm`
+* `pwd` 
+* `cat`
+* `ls`
+* `touch`
+* `mkdir`
+* `which`
+* `grep`
+* `ssh`
+* `chmod` 
+* `chown`
 
 ##### !end-options
 
