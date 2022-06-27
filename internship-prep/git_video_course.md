@@ -2,9 +2,7 @@
 
 ## Introduction
 
-Every company uses different tools and protocols. At Ada, we teach the basics of using git and github for collaboration. The video course linked below was created by Alyssa Hursh, an Ada alum and mentor and software engineer at Amazon. 
-
-This comprehensive git course is based on Alyssa's extensive experience mentoring Ada interns at Amazon. Completion of this course will help set up Ada interns for success at Amazon.
+At Ada, we teach the basics of using git and github for collaboration. Every company has different norms and expectations around version control systems. Many use git. The video course linked below was created by Alyssa Hursh, an Ada alum and mentor and software engineer at Amazon. This comprehensive git course is based on Alyssa's extensive experience mentoring Ada interns at Amazon. Completion of this course will help set up Ada interns for success at Amazon.
 
 ## Video Course
 
