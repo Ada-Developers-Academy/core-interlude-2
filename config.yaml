@@ -146,6 +146,25 @@ Standards:
         UID: b30f1525-c567-49c2-a1e2-500b48f2998f
         Path: /algorithms/algorithm-practice-sessions-19.md
   -
+    Title: Internship Prep
+    Description: "VIM, Linux Manual, and Git"
+    UID: fefeb111-2a50-468b-8bd4-bbc1fbd659a1
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 068b2e61-aa9e-455c-8fd8-761976339f26
+        Path: /internship-prep/vim.md
+      -
+        Type: Lesson
+        UID: fb3231c0-c055-4cf5-a624-77d03e1357e3
+        Path: /internship-prep/linux_man.md
+      -
+        Type: Lesson
+        UID: e989c0f2-6640-491f-8828-1906a7b8b7cf
+        Path: /internship-prep/git_video_course.md
+  -
     Title: Python Mob Programming
     Description: "Activity: Python Mob Programming"
     UID: 80fa67885c3e94ef1bd67fbf6b9f7b3a
