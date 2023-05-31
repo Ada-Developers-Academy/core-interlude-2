@@ -4,5 +4,5 @@
 
 ### Resources
 
-* [Problems](https://docs.google.com/presentation/d/1eCM6dtbTJIqkkRlYHRcuqOWYciGJqsEIWyVrtAxLIik/edit#slide=id.g115ca252154_0_59)
+* [Problems](https://docs.google.com/presentation/d/1O_wsw1CggNqh_Q50rQthNevq3buYUNtv4fNhuib35kg/edit?usp=sharing)
 * Solutions (coming soon)
