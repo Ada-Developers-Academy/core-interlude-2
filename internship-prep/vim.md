@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In internship, we will learn to use many new tools. One of the tools will be a new Integrated Development Environment (IDE) or text editor. To practice quickly getting up to speed with an new tool, in this lesson we will complete a **vim** crash course. 
+In internship, we will learn to use many new tools. One of the tools will be a new Integrated Development Environment (IDE) or text editor. To practice quickly getting up to speed with a new tool, in this lesson we will complete a **vim** crash course. 
 
 **Vim** is a powerful and commonly used text editor that is run from the terminal. To learn the basics of using **vim**, complete a short [Vim Crash Course](http://alyssahursh.com/docs/vim-crash-course.html). This resource was created by Alyssa Hursh, an Ada alum and mentor and software engineer at Amazon.
 
